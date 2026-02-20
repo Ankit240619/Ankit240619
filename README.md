@@ -1,5 +1,27 @@
 # 💫 About Me:
-# Hi, I'm Ankit Deopurkar 👋<br><br>I am a Master's student in Information Systems at Northeastern University (Boston, MA) with 4+ years of professional experience in Data Engineering and Cloud Infrastructure.<br><br>I specialize in building scalable real-time and batch data pipelines, optimizing cloud-based data platforms, and applying GenAI patterns like RAG and agentic workflows to accelerate analytics automation. Previously, I engineered streaming ingestion and analytics pipelines at Plymouth Rock Assurance and built production-grade ETL systems processing 100GB+ daily at KPMG India.<br><br>## 🚀 What I've Built<br><br>- **Agentic RAG Pipeline**: An AI-powered retrieval-augmented generation system using Apache Airflow to automate data ingestion, processing, and intelligent Q&A retrieval from financial documents.<br><br>- **Financial Multimodal RAG**: A multimodal RAG application for financial document analysis, enabling intelligent querying across text, tables, and visual elements in financial reports.<br><br>- **Data Extract & Standardization**: An automated pipeline for extracting and standardizing structured and semi-structured data sources, improving data quality and downstream reporting readiness.<br><br>- **LLM Integration**: End-to-end LLM-powered workflows integrating large language models into data processing and analytics pipelines for enrichment and anomaly detection.<br><br>- **Hackathon Projects**: Rapid prototyping of AI/ML solutions including intelligent document processing and data-driven analytics applications.<br><br>## ⚡ Tools & Technologies<br><br>- **Languages**: Python, SQL, Java, C++, C<br>- **Streaming & Distributed**: Apache Kafka, Spark, Flink, PySpark<br>- **Cloud & DevOps**: AWS (S3, EMR, Lambda, Glue, CloudWatch), Docker, Kubernetes, Terraform<br>- **Data Warehouse & Databases**: Snowflake, Trino, MySQL, SQL Server, PostgreSQL, Oracle Cloud<br>- **ETL / Orchestration**: Apache Airflow, Batch ETL/ELT, Real-time Ingestion, Data Quality & Schema Validation<br>- **GenAI / ML**: RAG, LLM Analytics, Agentic Workflows, Anomaly Detection<br>- **Monitoring & Reliability**: Operational Dashboards, Observability, Alerting, Performance Tuning<br><br>## 📫 How to Reach Me<br><br>- **LinkedIn**: [linkedin.com/in/ankitdeopurkar](https://linkedin.com/in/ankitdeopurkar)<br>- **Email**: ankitdeopurkar.in@gmail.com<br>
+# Hi, I'm Ankit Deopurkar 👋
+<p>
+I am a Data Engineer and Master's student in Information Systems at Northeastern University (Boston, MA) with 4+ years of professional experience building scalable real-time and batch data systems across insurance and financial risk analytics domains.
+</p>
+
+<p>
+At Plymouth Rock Assurance, I engineered Kafka-driven streaming ingestion pipelines and Spark-based transformations powering real-time operational dashboards for quotes, claims, and latency KPIs — reducing reporting turnaround from 24 hours to 6 hours. I designed TB-scale PySpark pipelines on AWS EMR, improving processing throughput 5× and reducing memory usage by 50% through partition tuning and query optimization. I also implemented serverless ingestion frameworks using S3, Lambda, and Glue to deliver analytics-ready datasets into Snowflake while reducing storage costs by 25%.
+</p>
+
+<p>
+Previously at KPMG India, I built and maintained production grade ETL systems processing 100GB+ financial datasets daily, delivering audit-ready outputs with 99.9% data accuracy through validation rules, dimensional modeling, and quality checks. I migrated legacy workflows to AWS and Snowflake, optimized Airflow DAGs from 6 hours to 2 hours, and automated structured and semi-structured data standardization — reducing manual data preparation by 75%.
+</p>
+
+<p>
+I specialize in distributed data processing (Kafka, Spark, Flink), cloud-native data platforms (AWS, Snowflake), workflow orchestration (Airflow), and applied GenAI patterns such as retrieval-augmented generation (RAG) and agentic workflows to automate analytics validation, anomaly detection, and intelligent data enrichment.
+</p>
+
+<p>
+I’m passionate about building reliable, cost-efficient, and high-performance data platforms that enable self-service analytics, operational visibility, and scalable AI-driven insights.
+</p>
+📫 How to Reach Me<br><br>
+LinkedIn: (https://linkedin.com/in/ankitdeopurkar)<br>
+Email: ankitdeopurkar.in@gmail.com<br>
 
 
 ## 🌐 Socials:
