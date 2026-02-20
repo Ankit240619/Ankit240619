@@ -5,11 +5,11 @@ I am a Data Engineer and Master's student in Information Systems at Northeastern
 </p>
 
 <p>
-At Plymouth Rock Assurance, I engineered Kafka-driven streaming ingestion pipelines and Spark-based transformations powering real-time operational dashboards for quotes, claims, and latency KPIs — reducing reporting turnaround from 24 hours to 6 hours. I designed TB-scale PySpark pipelines on AWS EMR, improving processing throughput 5× and reducing memory usage by 50% through partition tuning and query optimization. I also implemented serverless ingestion frameworks using S3, Lambda, and Glue to deliver analytics-ready datasets into Snowflake while reducing storage costs by 25%.
+At Plymouth Rock Assurance, I engineered Kafka-driven streaming ingestion pipelines and Spark-based transformations powering real-time operational dashboards for quotes, claims, and latency KPIs reducing reporting turnaround from 24 hours to 6 hours. I designed TB-scale PySpark pipelines on AWS EMR, improving processing throughput 5× and reducing memory usage by 50% through partition tuning and query optimization. I also implemented serverless ingestion frameworks using S3, Lambda, and Glue to deliver analytics ready datasets into Snowflake while reducing storage costs by 25%.
 </p>
 
 <p>
-Previously at KPMG India, I built and maintained production grade ETL systems processing 100GB+ financial datasets daily, delivering audit-ready outputs with 99.9% data accuracy through validation rules, dimensional modeling, and quality checks. I migrated legacy workflows to AWS and Snowflake, optimized Airflow DAGs from 6 hours to 2 hours, and automated structured and semi-structured data standardization — reducing manual data preparation by 75%.
+Previously at KPMG India, I built and maintained production grade ETL systems processing 100GB+ financial datasets daily, delivering audit-ready outputs with 99.9% data accuracy through validation rules, dimensional modeling, and quality checks. I migrated legacy workflows to AWS and Snowflake, optimized Airflow DAGs from 6 hours to 2 hours, and automated structured and semi-structured data standardization  reducing manual data preparation by 75%.
 </p>
 
 <p>
